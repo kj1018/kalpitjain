@@ -18,7 +18,8 @@
 [Dossier](https://vtvil-kaaaa-aaaal-qbfjq-cai.raw.ic0.app/) 
 - 🌱 I’m currently
 learning **Solidity and Motoko** 
-- 💬 Ask me about **MERN** - 📫 How to reach me **kalpit.jain1810@gmail.com**
+- 💬 Ask me about **MERN** 
+- 📫 How to reach me **kalpit.jain1810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
